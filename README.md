@@ -24,6 +24,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - **[Festive Campaign Analysis](https://link-to-your-project):** Analyzed marketing campaign effectiveness during festive seasons.
 
 ## Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-chakravorty)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
 - ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
