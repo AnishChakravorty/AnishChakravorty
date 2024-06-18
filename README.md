@@ -1,11 +1,11 @@
 # Hi there, I'm Anish Chakravorty! 👋
 
-Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, along with web development skills acquired through WordPress, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, Python and Machine learning. Passionate about applying theoretical knowledge to practical problems and eager to contribute to data-driven decision-making in a dynamic environment. Ready to leverage my skills and enthusiasm to deliver impactful solutions in my professional journey.
 
 ## About Me
 - 📊 Aspiring Data Analyst
-- 📚 Currently pursuing the Google Data Analytics Certification
-- 🎓 Bachelor's in Hospitality Management
+- 📚 Currently Upskilling in Data Analyst Field
+- 🎓 Bachelor's in Electronics and Instrumentation
 
 ## Tools and Languages
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -19,9 +19,15 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 
 ## Projects
-- **[Business Insights 360](https://link-to-your-project):** An analysis project providing comprehensive insights into business operations.
-- **[Hospitality Analysis](https://link-to-your-project):** Analyzed data to optimize operations and improve guest experience in the hospitality sector.
-- **[Festive Campaign Analysis](https://link-to-your-project):** Analyzed marketing campaign effectiveness during festive seasons.
+- **[Machine Learning using Classification Models](https://github.com/AnishChakravorty/Machine-Learning-using-Classification-Models-):** Created a Machine Learning Model using various Classification Models 
+    including Decision Trees and Ensemble methods, and compared the accuracy of each model.
+- **[Machine Learning using Regression Models](https://github.com/AnishChakravorty/Machine-Learning-using-Regression-Models):** Used Python to build a linear regression model for a company to determine CTC/ 
+     Salary for new hires based on their past employment data.
+- **[Tableau dashboard](https://github.com/AnishChakravorty/Bike-Have-Tableau-Dashboard):** Created a visually interactive and informative dashboard that will help in understanding the sales figures better.
+- **[Auction strategy for a new IPL franchise](https://github.com/AnishChakravorty/Auction-Strategy-for-New-IPL-Franchise):** Used SQL to develop an auction strategy for a new IPL franchise by analyzing past IPL 
+    data to create a strong and balanced squad.
+- **[Analyze fitness data](https://github.com/AnishChakravorty/Fitbit-Data-Analysis):** Analyzed Fitbit fitness tracker data to deliver marketing and business solutions to We Fit and its subsidiaries using 
+    Mircosoft Excel.
 
 ## Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-chakravorty)
