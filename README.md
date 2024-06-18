@@ -29,6 +29,17 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - **[Analyze fitness data](https://github.com/AnishChakravorty/Fitbit-Data-Analysis):** Analyzed Fitbit fitness tracker data to deliver marketing and business solutions to We Fit and its subsidiaries using 
     Mircosoft Excel.
 
+## Certificates
+Here are some of the certifications I have achieved:
+
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/0cb8c2af-4e7b-44fe-ad4f-bb681989c5d2" alt="Certificate 1" width="400"/>
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/0dfdf35b-bc44-4724-b941-e1e317f62efc" alt="Certificate 2" width="416" height="283"/>
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/ad2d0326-354d-4f17-b370-9e6bec4b3d3e" alt="Certificate 3" width="400"/>
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/9a275c55-8461-418d-9f3f-e71bbffd0401" alt="Certificate 4" width="416"/>
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/9b994ba6-0de1-4325-8c13-fbc1254d9228" alt="Certificate 1" width="400"/>
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/c8dc0ec3-eaac-4030-b604-1485f7f398c0" alt="Certificate 1" width="416" height="283"/>
+
+
 ## Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-chakravorty)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datascienceportfol.io/AnishChakravorty)
