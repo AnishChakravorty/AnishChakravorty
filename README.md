@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - 📚 Currently Upskilling in Data Analyst Field
 - 🎓 Bachelor's in Electronics and Instrumentation
 
-## Tools and Languages
+## Tools and Languages Used
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
