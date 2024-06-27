@@ -46,3 +46,4 @@ Here are some of the certifications I have achieved:
 - [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datascienceportfol.io/AnishChakravorty)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishntpc1234@gmail.com)
 
+  Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊  
