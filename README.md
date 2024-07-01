@@ -32,12 +32,12 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## Certificates
 Here are some of the certifications I have achieved:
 
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/0cb8c2af-4e7b-44fe-ad4f-bb681989c5d2" alt="Certificate 1" width="400"/>
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/0dfdf35b-bc44-4724-b941-e1e317f62efc" alt="Certificate 2" width="416" height="283"/>
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/0dfdf35b-bc44-4724-b941-e1e317f62efc" alt="Certificate 1" width="400" height="283"/>
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/3e7f5e4e-bbff-4cdc-b121-542970e6ec74" alt="Certificate 2" width="416" height="283"/>
 <img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/b0f74175-65d6-4a3c-81fa-b66bd803d8b2" alt="Certificate 3" width="400"/>
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/9a275c55-8461-418d-9f3f-e71bbffd0401" alt="Certificate 4" width="416"/>
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/9b994ba6-0de1-4325-8c13-fbc1254d9228" alt="Certificate 1" width="400"/>
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/c8dc0ec3-eaac-4030-b604-1485f7f398c0" alt="Certificate 1" width="416" height="283"/>
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/0cb8c2af-4e7b-44fe-ad4f-bb681989c5d2" alt="Certificate 4" width="416" height="309"/>
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/9b994ba6-0de1-4325-8c13-fbc1254d9228" alt="Certificate 5" width="400"/>
+<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/c8dc0ec3-eaac-4030-b604-1485f7f398c0" alt="Certificate 6" width="416" height="283"/>
 
 
 
