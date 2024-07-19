@@ -32,12 +32,11 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## Certificates
 Here are some of the certifications I have achieved:
 
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/0dfdf35b-bc44-4724-b941-e1e317f62efc" alt="Certificate 1" width="400" height="283"/>
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/3e7f5e4e-bbff-4cdc-b121-542970e6ec74" alt="Certificate 2" width="416" height="283"/>
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/b0f74175-65d6-4a3c-81fa-b66bd803d8b2" alt="Certificate 3" width="400"/>
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/0cb8c2af-4e7b-44fe-ad4f-bb681989c5d2" alt="Certificate 4" width="416" height="309"/>
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/9b994ba6-0de1-4325-8c13-fbc1254d9228" alt="Certificate 5" width="400"/>
-<img src="https://github.com/AnishChakravorty/AnishChakravorty/assets/167467707/c8dc0ec3-eaac-4030-b604-1485f7f398c0" alt="Certificate 6" width="416" height="283"/>
+- Career Essentials in Data Analysis By Microsoft and LinkedIn - [View Credentials](https://www.linkedin.com/learning/certificates/a64946567922690e849ae2b674ff36ea01eabceb11c95740e5a0b130ecc58f2f)
+- Career Essentials in Business Analysis By Microsoft and LinkedIn - [View Credentials](https://www.linkedin.com/learning/certificates/b659fadc87d4b2db1eae4429d99c7f5355bd08773e0e603f5ceee2242aff58bd)
+- Career Essentials in Generative AI By Microsoft and LinkedIn - [View Credentials](https://www.linkedin.com/learning/certificates/e99ac7d9a0b6da54adadb0aa3d326b88b5b7e94df4bf1969f1096e0c8905730f)
+- Data Analytics and Visualization Job Simulation By Accenture - [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_SfcN2FPC88EpKRTwb_1716228402005_completion_certificate.pdf)
+- Data Visualisation: Empowering Business with Effective Insights By Tata - [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_SfcN2FPC88EpKRTwb_1720977145010_completion_certificate.pdf)
 
 
 
