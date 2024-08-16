@@ -42,7 +42,7 @@ Here are some of the certifications I have achieved:
 
 ## Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-chakravorty)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datascienceportfol.io/AnishChakravorty)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=datacamp&logoColor=white)](https://anishchakravorty.github.io/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishntpc1234@gmail.com)
 
   Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊  
