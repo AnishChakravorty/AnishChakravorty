@@ -16,19 +16,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-
-## Projects
-- **[Machine Learning using Classification Models](https://github.com/AnishChakravorty/Machine-Learning-using-Classification-Models-):** Created a Machine Learning Model using various Classification Models 
-    including Decision Trees and Ensemble methods, and compared the accuracy of each model.
-- **[Machine Learning using Regression Models](https://github.com/AnishChakravorty/Machine-Learning-using-Regression-Models):** Used Python to build a linear regression model for a company to determine CTC/ 
-     Salary for new hires based on their past employment data.
-- **[Tableau dashboard](https://github.com/AnishChakravorty/Bike-Have-Tableau-Dashboard):** Created a visually interactive and informative dashboard that will help in understanding the sales figures better.
-- **[Auction strategy for a new IPL franchise](https://github.com/AnishChakravorty/Auction-Strategy-for-New-IPL-Franchise):** Used SQL to develop an auction strategy for a new IPL franchise by analyzing past IPL 
-    data to create a strong and balanced squad.
-- **[Analyze fitness data](https://github.com/AnishChakravorty/Fitbit-Data-Analysis):** Analyzed Fitbit fitness tracker data to deliver marketing and business solutions to We Fit and its subsidiaries using 
-    Mircosoft Excel.
-
 ## Certificates
 Here are some of the certifications I have achieved:
 
