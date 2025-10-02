@@ -19,11 +19,11 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## Certificates
 Here are some of the certifications I have achieved:
 
-- Career Essentials in Data Analysis By Microsoft and LinkedIn - [View Credentials](https://www.linkedin.com/learning/certificates/a64946567922690e849ae2b674ff36ea01eabceb11c95740e5a0b130ecc58f2f)
-- Career Essentials in Business Analysis By Microsoft and LinkedIn - [View Credentials](https://www.linkedin.com/learning/certificates/b659fadc87d4b2db1eae4429d99c7f5355bd08773e0e603f5ceee2242aff58bd)
-- Career Essentials in Generative AI By Microsoft and LinkedIn - [View Credentials](https://www.linkedin.com/learning/certificates/e99ac7d9a0b6da54adadb0aa3d326b88b5b7e94df4bf1969f1096e0c8905730f)
-- Data Analytics and Visualization Job Simulation By Accenture - [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_SfcN2FPC88EpKRTwb_1716228402005_completion_certificate.pdf)
-- Data Visualisation: Empowering Business with Effective Insights By Tata - [View Credentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_SfcN2FPC88EpKRTwb_1720977145010_completion_certificate.pdf)
+- Excel: Mother of Business Intelligence - [View Credentials](https://codebasics.io/certificate/CB-51-377780)
+- Get Job Ready: Power BI Data Analytics for All Levels 3.0 - [View Credentials](https://codebasics.io/certificate/CB-49-377780)
+- SQL Beginner to Advanced For Data Professionals - [View Credentials](https://codebasics.io/certificate/CB-50-377780)
+- Python: Beginner to Advanced For Data Professionals - [View Credentials](https://codebasics.io/certificate/CB-48-377780)
+- Data Analytics Bootcamp 5.0: With Practical Job Assistance + AI Module - [View Credentials](https://codebasics.io/certificate/CB-BT-1-377780)
 
 
 
